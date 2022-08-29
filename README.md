@@ -1,6 +1,6 @@
 # How to scan from printer to computer?
 
-[![how to scan from printer to computer](red2.png)](https://github.com/itechtics/how.to.scan.from.printer.to.computer)
+[![how to scan from printer to computer](red2.png)](https://computersolve.com/how-to-scan-from-printer-to-computer/)
 
 This article explains how to capture a document scan from a printer to your Windows PC or Mac. These instructions will work on Windows 10, as well as macOS 11 (Big Sur). The instructions require that the drivers are installed and your printer is already in working order.
 
